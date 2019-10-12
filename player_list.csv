@@ -1,212 +1,155 @@
-,player,WAR,OFF,DEF,WAA,TRPG,ORPG,RAA,WAAWP,Season,First Name,Last Name,LASTNAME,FIRSTNAME,MLBCODE
-0,Cody Bellinger,9,6.6,1.9,7,5,4.7,72.9,0.5,19,Cody,Bellinger,Bellinger,Cody,641355.0
-1,Mike Minor,7.8,0,0,5.9,5,3.2,57,0.7,19,Mike,Minor,Minor,Mike,501985.0
-2,Lance Lynn,7.6,0,0,5.7,5,3.3,55.6,0.7,19,Lance,Lynn,Lynn,Lance,458681.0
-3,Ketel Marte,6.9,6.6,0.9,5,5.1,4.7,53.9,0.5,19,Ketel,Marte,Marte,Ketel,606466.0
-4,Eduardo Rodriguez,6,0,0,4.1,5,3.8,41.5,0.6,19,Eduardo,Rodriguez,Rodriguez,Eduardo,121350.0
-5,Eduardo Rodriguez,6,0,0,4.1,5,3.8,41.5,0.6,19,Eduardo,Rodriguez,Rodriguez,Eduardo,593958.0
-6,Jack Flaherty,5.9,0,0,4.3,4.7,3.5,38.6,0.6,19,Jack,Flaherty,Flaherty,Jack,656427.0
-7,Jorge Polanco,5.7,5.4,1,3.5,5.2,5,33.8,0.5,19,Jorge,Polanco,Polanco,Jorge,593871.0
-8,Mike Soroka,5.7,0,0,4.2,4.7,3.4,38.2,0.6,19,Mike,Soroka,Soroka,Mike,647336.0
-9,Lucas Giolito,5.6,0,0,4,5,3.6,39.8,0.6,19,Lucas,Giolito,Giolito,Lucas,608337.0
-10,Ronald Acuna Jr.,5.5,4.8,0.7,3.4,4.9,4.7,37.4,0.5,19,Ronald,Acuna Jr.,,,
-11,Rafael Devers,5.3,5.7,-0.1,3,5.2,5,29.3,0.5,19,Rafael,Devers,Devers,Rafael,646240.0
-12,Hyun-Jin Ryu,5.1,0,0,3.6,4.7,3.6,32.5,0.6,19,Hyun-Jin,Ryu,,,
-13,Charlie Morton,5.1,0,0,3.3,5,4,33.8,0.6,19,Charlie,Morton,Morton,Charlie,119424.0
-14,Charlie Morton,5.1,0,0,3.3,5,4,33.8,0.6,19,Charlie,Morton,Morton,Charlie,450203.0
-15,Pete Alonso,5,5.8,-1.6,2.9,5,4.7,32.2,0.5,19,Pete,Alonso,,,
-16,Jeff McNeil,5,4.6,0.1,3.2,4.9,4.7,34.8,0.5,19,Jeff,McNeil,McNeil,Jeff,643446.0
-17,Shane Bieber,5,0,0,3,5,4.1,31.7,0.6,19,Shane,Bieber,Bieber,Shane,669456.0
-18,Ozzie Albies,4.8,4.3,1,2.6,4.9,4.7,29.4,0.5,19,Ozzie,Albies,,,
-19,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,112116.0
-20,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,471039.0
-21,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,503082.0
-22,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,495645.0
-23,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,514630.0
-24,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,518088.0
-25,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,541579.0
-26,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,448040.0
-27,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,622379.0
-28,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,622491.0
-29,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Castillo,Luis,642278.0
-30,Kolten Wong,4.7,3.4,1.7,2.9,4.8,4.7,31.5,0.5,19,Kolten,Wong,Wong,Kolten,543939.0
-31,Juan Soto,4.7,4.7,-0.6,2.7,4.9,4.7,29.7,0.5,19,Juan,Soto,Soto,Juan,542304.0
-32,Juan Soto,4.7,4.7,-0.6,2.7,4.9,4.7,29.7,0.5,19,Juan,Soto,Soto,Juan,665742.0
-33,Yoan Moncada,4.6,5.2,-0.3,2.7,5.2,5,26.5,0.5,19,Yoan,Moncada,Moncada,Yoan,660162.0
-34,Nick Ahmed,4.5,2.8,2.6,2.5,4.8,4.7,27.7,0.5,19,Nick,Ahmed,Ahmed,Nick,605113.0
-35,Carlos Santana,4.5,4.5,-0.8,2.2,5.1,5,20.7,0.5,19,Carlos,Santana,Santana,Carlos,467793.0
-36,Carlos Santana,4.5,4.5,-0.8,2.2,5.1,5,20.7,0.5,19,Carlos,Santana,Santana,Carlos,665324.0
-37,Kyle Freeland,8.4,0,0,6.8,4.3,2.6,56.5,0.7,18,Kyle,Freeland,Freeland,Kyle,607536.0
-38,Blake Snell,7.5,0,0,5.8,4.6,2.9,52,0.7,18,Blake,Snell,Snell,Blake,605483.0
-39,Mitch Haniger,6.1,5.5,0.2,3.9,4.8,4.6,35.3,0.5,18,Mitch,Haniger,Haniger,Mitch,571745.0
-40,Trevor Bauer,5.8,0,0,4.1,4.6,3.3,38.1,0.6,18,Trevor,Bauer,Bauer,Trevor,545333.0
-41,Whit Merrifield,5.5,4.5,1.4,3.3,4.7,4.6,29.2,0.5,18,Whit,Merrifield,Merrifield,Whit,593160.0
-42,Mike Clevinger,5.2,0,0,3.4,4.6,3.6,32.2,0.6,18,Mike,Clevinger,Clevinger,Mike,605182.0
-43,Jed Lowrie,4.8,4.7,0.5,2.5,4.7,4.6,22.1,0.5,18,Jed,Lowrie,Lowrie,Jed,476704.0
-44,Aaron Hicks,4.7,4.9,0.2,2.7,4.8,4.6,24.6,0.5,18,Aaron,Hicks,Hicks,Aaron,543305.0
-45,Jameson Taillon,4.7,0,0,3.2,4.3,3.5,27.5,0.6,18,Jameson,Taillon,Taillon,Jameson,592791.0
-46,German Marquez,4.7,0,0,3.1,4.3,3.5,27,0.6,18,German,Marquez,Marquez,German,608566.0
-47,Brandon Nimmo,4.4,5.1,-1,2.6,4.6,4.3,27.2,0.5,18,Brandon,Nimmo,Nimmo,Brandon,607043.0
-48,Joey Wendle,4.3,3.7,1,2.4,4.7,4.6,21.7,0.5,18,Joey,Wendle,Wendle,Joey,621563.0
-49,J.T. Realmuto,4.3,4.9,0.1,2.6,4.6,4.3,26.9,0.5,18,J.T.,Realmuto,Realmuto,J.T.,592663.0
-50,Blake Treinen,4.3,0,0,2.4,4.6,4.2,23.1,0.5,18,Blake,Treinen,Treinen,Blake,595014.0
-51,Didi Gregorius,4.2,4.3,0.7,2.3,4.7,4.6,20.3,0.5,18,Didi,Gregorius,Gregorius,Didi,544369.0
-52,Tommy Pham,6.4,5,1,4.7,4.9,4.7,47.7,0.5,17,Tommy,Pham,,,
-53,Charlie Blackmon,6,6.5,-0.2,3.9,4.9,4.7,40.8,0.5,17,Charlie,Blackmon,Blackmon,Charlie,453568.0
-54,Marcus Stroman,5.8,0,0,4,4.7,3.6,38.7,0.6,17,Marcus,Stroman,Stroman,Marcus,573186.0
-55,Marcell Ozuna,5.8,4.8,0.4,3.7,4.8,4.7,38,0.5,17,Marcell,Ozuna,Ozuna,Marcell,542303.0
-56,Carlos Carrasco,5.4,0,0,3.6,4.7,3.7,35.2,0.6,17,Carlos,Carrasco,Carrasco,Carlos,471911.0
-57,Carlos Carrasco,5.4,0,0,3.6,4.7,3.7,35.2,0.6,17,Carlos,Carrasco,Carrasco,Carlos,448464.0
-58,Byron Buxton,5.1,2.7,2.8,3.4,4.8,4.7,32.8,0.5,17,Byron,Buxton,Buxton,Byron,621439.0
-59,Jonathan Schoop,5.1,4.9,0.7,2.8,4.9,4.7,27.3,0.5,17,Jonathan,Schoop,Schoop,Jonathan,570731.0
-60,Robbie Ray,5,0,0,3.7,4.7,3.5,34.1,0.6,17,Robbie,Ray,Ray,Robbie,592662.0
-61,Zack Cozart,4.9,4.7,0.8,3.4,4.9,4.7,34.6,0.5,17,Zack,Cozart,Cozart,Zack,446359.0
-62,Chris Taylor,4.8,4.2,0.7,3,4.8,4.7,30.9,0.5,17,Chris,Taylor,Taylor,Chris,621035.0
-63,Elvis Andrus,4.7,4.4,1.2,2.4,4.8,4.7,23,0.5,17,Elvis,Andrus,Andrus,Elvis,462101.0
-64,Ervin Santana,4.6,0,0,2.7,4.7,3.9,27.2,0.6,17,Ervin,Santana,Santana,Ervin,429722.0
-65,Andrew Cashner,4.6,0,0,3,4.7,3.7,29.9,0.6,17,Andrew,Cashner,Cashner,Andrew,488768.0
-66,Avisail Garcia,4.5,4.5,-0.4,2.6,4.9,4.7,25.5,0.5,17,Avisail,Garcia,Garcia,Avisail,541645.0
-67,Masahiro Tanaka,5.4,0,0,3.6,4.5,3.5,34.5,0.6,16,Masahiro,Tanaka,Tanaka,Masahiro,465470.0
-68,Masahiro Tanaka,5.4,0,0,3.6,4.5,3.5,34.5,0.6,16,Masahiro,Tanaka,Tanaka,Masahiro,547888.0
-69,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,118360.0
-70,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,471593.0
-71,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,463036.0
-72,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,465593.0
-73,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,501644.0
-74,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,524268.0
-75,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,545947.0
-76,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,593372.0
-77,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,606311.0
-78,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,619853.0
-79,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Martinez,Carlos,642751.0
-80,Jackie Bradley Jr.,5.3,4.2,1.6,3.1,4.6,4.5,28.6,0.5,16,Jackie,Bradley Jr.,,,
-81,Noah Syndergaard,5.3,0,0,3.8,4.5,3.4,32.7,0.6,16,Noah,Syndergaard,Syndergaard,Noah,592789.0
-82,David Ortiz,5.1,5,-1.2,2.9,4.7,4.5,26.7,0.5,16,David,Ortiz,Ortiz,David,120074.0
-83,Rick Porcello,5,0,0,3,4.5,3.7,29.9,0.6,16,Rick,Porcello,Porcello,Rick,519144.0
-84,Kyle Hendricks,5,0,0,3.5,4.5,3.5,30.1,0.6,16,Kyle,Hendricks,Hendricks,Kyle,543294.0
-85,Michael Fulmer,4.9,0,0,3.4,4.5,3.3,32.1,0.6,16,Michael,Fulmer,Fulmer,Michael,605242.0
-86,Julio Teheran,4.8,0,0,3.3,4.5,3.5,28.3,0.6,16,Julio,Teheran,Teheran,Julio,527054.0
-87,Aaron Sanchez,4.8,0,0,3,4.5,3.6,29.3,0.6,16,Aaron,Sanchez,Sanchez,Aaron,592717.0
-88,A.J. Pollock,7.4,5.9,1.8,5.3,4.5,4.2,51.2,0.5,15,A.J.,Pollock,Pollock,A.J.,572041.0
-89,Yoenis Cespedes,6.3,5.1,0.7,4.1,8.9,8.5,37.7,1.1,15,Yoenis,Cespedes,Cespedes,Yoenis,493316.0
-90,Brandon Crawford,5.6,3.4,2.9,3.8,4.3,4.2,36.2,0.5,15,Brandon,Crawford,Crawford,Brandon,543063.0
-91,John Lackey,5.6,0,0,3.8,4.2,3.2,31.7,0.6,15,John,Lackey,Lackey,John,407793.0
-92,John Lackey,5.6,0,0,3.8,4.2,3.2,31.7,0.6,15,John,Lackey,Lackey,John,561444.0
-93,Ender Inciarte,5.3,2,2.6,3.5,4.3,4.2,32.9,0.5,15,Ender,Inciarte,Inciarte,Ender,542255.0
-94,Nelson Cruz,5.2,6,-1.8,2.9,4.5,4.3,26.2,0.5,15,Nelson,Cruz,Cruz,Nelson,112906.0
-95,Nelson Cruz,5.2,6,-1.8,2.9,4.5,4.3,26.2,0.5,15,Nelson,Cruz,Cruz,Nelson,443558.0
-96,Kevin Pillar,5.2,2.8,2.8,3,4.3,4.3,25.8,0.5,15,Kevin,Pillar,Pillar,Kevin,607680.0
-97,Logan Forsythe,5.1,4.5,0.9,3,4.4,4.3,26.4,0.5,15,Logan,Forsythe,Forsythe,Logan,523253.0
-98,Matt Duffy,4.9,3.9,1.2,2.9,4.4,4.2,28.5,0.5,15,Matt,Duffy,Duffy,Matt,622110.0
-99,Dee Gordon,4.9,3.5,1.8,3,4.3,4.2,28.8,0.5,15,Dee,Gordon,Gordon,Dee,543829.0
-100,Mike Moustakas,4.4,4,0.8,2.3,4.4,4.3,20,0.5,15,Mike,Moustakas,Moustakas,Mike,519058.0
-101,Jonathan Lucroy,6.7,5.6,2,4.7,4.2,4,44.1,0.5,14,Jonathan,Lucroy,Lucroy,Jonathan,518960.0
-102,Steve Pearce,6,4,1.5,4.6,4.4,4.1,40.6,0.5,14,Steve,Pearce,Pearce,Steve,456665.0
-103,Jhonny Peralta,5.8,4,2.6,3.8,4.1,4,36,0.5,14,Jhonny,Peralta,Peralta,Jhonny,425509.0
-104,Juan Lagares,5.5,2.4,3.4,4.1,4.1,4,37.4,0.5,14,Juan,Lagares,Lagares,Juan,501571.0
-105,Russell Martin,5.5,4.2,2,4.1,4.2,4,38,0.5,14,Russell,Martin,Martin,Russell,431145.0
-106,Todd Frazier,5.3,4.6,0.7,3.2,4.1,4,31.5,0.5,14,Todd,Frazier,Frazier,Todd,453943.0
-107,Josh Harrison,5.3,3.9,1.4,3.6,4.1,4,34,0.5,14,Josh,Harrison,Harrison,Josh,543281.0
-108,Victor Martinez,5.3,5.6,-1.6,3.1,4.3,4.1,25.8,0.5,14,Victor,Martinez,Martinez,Victor,400121.0
-109,Victor Martinez,5.3,5.6,-1.6,3.1,4.3,4.1,25.8,0.5,14,Victor,Martinez,Martinez,Victor,472197.0
-110,Victor Martinez,5.3,5.6,-1.6,3.1,4.3,4.1,25.8,0.5,14,Victor,Martinez,Martinez,Victor,650431.0
-111,Victor Martinez,5.3,5.6,-1.6,3.1,4.3,4.1,25.8,0.5,14,Victor,Martinez,Martinez,Victor,676001.0
-112,Adam Jones,4.9,4.6,0.8,2.6,4.3,4.1,20.6,0.5,14,Adam,Jones,Jones,Adam,430945.0
-113,Devin Mesoraco,4.8,4.6,0.9,3.4,4.3,4,32.1,0.5,14,Devin,Mesoraco,Mesoraco,Devin,519023.0
-114,Hisashi Iwakuma,7,0,0,5,4.3,3,45.6,0.7,13,Hisashi,Iwakuma,Iwakuma,Hisashi,547874.0
-115,Anibal Sanchez,6.3,0,0,4.7,4.3,2.9,42,0.7,13,Anibal,Sanchez,Sanchez,Anibal,434671.0
-116,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,150403.0
-117,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,595834.0
-118,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,605228.0
-119,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,454392.0
-120,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,436979.0
-121,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,455501.0
-122,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,458770.0
-123,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,469915.0
-124,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,622584.0
-125,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,622774.0
-126,Jose Fernandez,6.3,0,0,4.9,4,2.6,38.4,0.7,13,Jose,Fernandez,Fernandez,Jose,628336.0
-127,Gerardo Parra,6.1,1.5,4,4,4,4,36.9,0.5,13,Gerardo,Parra,Parra,Gerardo,467827.0
-128,Jhoulys Chacin,5.9,0,0,4.3,4,2.9,33.7,0.6,13,Jhoulys,Chacin,Chacin,Jhoulys,468504.0
-129,Yu Darvish,5.8,0,0,3.9,4.3,3.2,36.6,0.6,13,Yu,Darvish,Darvish,Yu,506433.0
-130,Hanley Ramirez,5.4,5.2,0.7,4.3,4.5,4,41.3,0.6,13,Hanley,Ramirez,Ramirez,Hanley,434670.0
-131,Matt Harvey,5.2,0,0,3.8,4,2.8,30,0.6,13,Matt,Harvey,Harvey,Matt,518774.0
-132,Bartolo Colon,5.1,0,0,3.3,4.3,3.3,31.7,0.6,13,Bartolo,Colon,Colon,Bartolo,112526.0
-133,Marlon Byrd,5,3.7,0.6,3.1,8.3,8.1,29.7,1,13,Marlon,Byrd,Byrd,Marlon,407781.0
-134,Colby Rasmus,4.8,3.6,1.6,3.3,4.4,4.3,28.9,0.5,13,Colby,Rasmus,Rasmus,Colby,458675.0
-135,Jayson Werth,4.8,4.8,-0.6,3.1,4.3,4,29.7,0.5,13,Jayson,Werth,Werth,Jayson,150029.0
-136,Chase Headley,6.2,6.3,0,4.1,4.6,4.3,39.1,0.5,12,Chase,Headley,Headley,Chase,452104.0
-137,Matt Harrison,6.1,0,0,4.1,4.4,3.3,36.1,0.6,12,Matt,Harrison,Harrison,Matt,457448.0
-138,Matt Harrison,6.1,0,0,4.1,4.4,3.3,36.1,0.6,12,Matt,Harrison,Harrison,Matt,543282.0
-139,Torii Hunter,5.8,4.3,1,3.7,4.6,4.4,35,0.5,12,Torii,Hunter,Hunter,Torii,116338.0
-140,Torii Hunter,5.8,4.3,1,3.7,4.6,4.4,35,0.5,12,Torii,Hunter,Hunter,Torii,641716.0
-141,R.A. Dickey,5.8,0,0,3.9,4.3,3.3,35.4,0.6,12,R.A.,Dickey,Dickey,R.A.,285079.0
-142,Aramis Ramirez,5.6,5,0.7,3.7,4.5,4.3,34.3,0.5,12,Aramis,Ramirez,Ramirez,Aramis,133380.0
-143,Hiroki Kuroda,5.5,0,0,3.4,4.4,3.5,30.5,0.6,12,Hiroki,Kuroda,Kuroda,Hiroki,493133.0
-144,Jake Peavy,5.3,0,0,3.2,4.4,3.5,28.5,0.6,12,Jake,Peavy,Peavy,Jake,408241.0
-145,Denard Span,5.1,3,2.4,3.1,4.5,4.4,29.2,0.5,12,Denard,Span,Span,Denard,452655.0
-146,Josh Reddick,4.8,2.9,1.3,2.4,4.4,4.4,22.6,0.5,12,Josh,Reddick,Reddick,Josh,502210.0
-147,Aaron Hill,4.8,4.8,0.2,2.8,4.5,4.3,26,0.5,12,Aaron,Hill,Hill,Aaron,431094.0
-148,Darwin Barney,4.8,1.5,3.6,3,4.3,4.3,26.8,0.5,12,Darwin,Barney,Barney,Darwin,446381.0
-149,Alex Rios,4.6,4,0,2.3,4.5,4.4,21.5,0.5,12,Alex,Rios,Rios,Alex,425567.0
-150,Carlos Ruiz,4.5,4.1,1,3.3,4.5,4.3,30.6,0.5,12,Carlos,Ruiz,Ruiz,Carlos,434563.0
-151,Carlos Ruiz,4.5,4.1,1,3.3,4.5,4.3,30.6,0.5,12,Carlos,Ruiz,Ruiz,Carlos,591733.0
-152,Kris Medlen,4.5,0,0,3.4,4.3,3.7,31.5,0.6,12,Kris,Medlen,Medlen,Kris,450665.0
-153,Brett Lawrie,4.4,2.3,2.3,2.4,4.4,4.4,22.7,0.5,12,Brett,Lawrie,Lawrie,Brett,543434.0
-154,Kyle Lohse,4.3,0,0,2.7,4.3,3.6,25.1,0.6,12,Kyle,Lohse,Lohse,Kyle,346798.0
-155,Matt Kemp,8.1,8.6,-0.2,6,4.5,4.2,56.9,0.5,11,Matt,Kemp,Kemp,Matt,461314.0
-156,Adrian Gonzalez,6.9,5.7,0.3,4.5,4.6,4.4,42.5,0.5,11,Adrian,Gonzalez,Gonzalez,Adrian,408236.0
-157,Ricky Romero,6.3,0,0,4.2,4.4,3.3,37.2,0.6,11,Ricky,Romero,Romero,Ricky,460069.0
-158,Pablo Sandoval,6,4.3,1.8,4.6,4.4,4.2,42.6,0.5,11,Pablo,Sandoval,Sandoval,Pablo,467055.0
-159,Josh Beckett,5.8,0,0,3.9,4.4,3.3,35.2,0.6,11,Josh,Beckett,Beckett,Josh,277417.0
-160,Hunter Pence,5.6,5.4,-0.6,3.6,8.8,8.3,33.3,1.1,11,Hunter,Pence,Pence,Hunter,452254.0
-161,Mike Napoli,5.3,5.4,0,3.8,4.8,4.4,36.6,0.5,11,Mike,Napoli,Napoli,Mike,435063.0
-162,Doug Fister,5.2,0,0,3.1,8.9,6.9,28.4,1.2,11,Doug,Fister,Fister,Doug,450729.0
-163,Alex Avila,5.2,5.5,0.6,3.2,4.7,4.4,30.3,0.5,11,Alex,Avila,Avila,Alex,488671.0
-164,James Shields,5.2,0,0,2.8,4.4,3.7,25.9,0.6,11,James,Shields,Shields,James,448306.0
-165,Matt Wieters,5.1,3.4,2.7,3.1,4.5,4.4,29,0.5,11,Matt,Wieters,Wieters,Matt,446308.0
-166,Peter Bourjos,5.1,3.8,1.6,3.1,4.6,4.4,28.7,0.5,11,Peter,Bourjos,Bourjos,Peter,488721.0
-167,C.J. Wilson,4.9,0,0,2.8,4.4,3.7,26,0.6,11,C.J.,Wilson,Wilson,C.J.,450351.0
-168,Brandon Phillips,4.9,4.1,1.1,3,4.3,4.2,27.2,0.5,11,Brandon,Phillips,Phillips,Brandon,408252.0
-169,Asdrubal Cabrera,4.8,4.5,1.1,2.5,4.6,4.4,23.5,0.5,11,Asdrubal,Cabrera,Cabrera,Asdrubal,452678.0
-170,Ian Kennedy,4.8,0,0,3,4.2,3.4,27.5,0.6,11,Ian,Kennedy,Kennedy,Ian,453178.0
-171,Yunel Escobar,4.7,4,1.4,2.7,4.6,4.4,25.1,0.5,11,Yunel,Escobar,Escobar,Yunel,488862.0
-172,Jose Reyes,4.7,6,-0.7,3,4.5,4.2,28.7,0.5,11,Jose,Reyes,Reyes,Jose,408314.0
-173,Jose Reyes,4.7,6,-0.7,3,4.5,4.2,28.7,0.5,11,Jose,Reyes,Reyes,Jose,452906.0
-174,Jose Reyes,4.7,6,-0.7,3,4.5,4.2,28.7,0.5,11,Jose,Reyes,Reyes,Jose,431170.0
-175,Jose Reyes,4.7,6,-0.7,3,4.5,4.2,28.7,0.5,11,Jose,Reyes,Reyes,Jose,593136.0
-176,Jose Reyes,4.7,6,-0.7,3,4.5,4.2,28.7,0.5,11,Jose,Reyes,Reyes,Jose,596255.0
-177,Jose Reyes,4.7,6,-0.7,3,4.5,4.2,28.7,0.5,11,Jose,Reyes,Reyes,Jose,650525.0
-178,Jose Reyes,4.7,6,-0.7,3,4.5,4.2,28.7,0.5,11,Jose,Reyes,Reyes,Jose,669851.0
-179,Carlos Beltran,4.6,4.8,-1,2.7,8.7,8.3,25.6,1,11,Carlos,Beltran,Beltran,Carlos,136860.0
-180,Cameron Maybin,4.5,2.8,2,2.8,4.2,4.2,25.3,0.5,11,Cameron,Maybin,Maybin,Cameron,457727.0
-181,Josh Hamilton,8.9,7.8,0.8,6.9,4.9,4.4,66.3,0.6,10,Josh,Hamilton,Hamilton,Josh,285078.0
-182,Ubaldo Jimenez,7.5,0,0,5.8,4.4,2.9,50.2,0.7,10,Ubaldo,Jimenez,Jimenez,Ubaldo,434622.0
-183,Josh Johnson,7.2,0,0,5.8,4.4,2.7,49,0.7,10,Josh,Johnson,Johnson,Josh,435178.0
-184,Josh Johnson,7.2,0,0,5.8,4.4,2.7,49,0.7,10,Josh,Johnson,Johnson,Josh,461835.0
-185,Carl Demonte Crawford,6.9,6,0.3,4.5,4.7,4.4,42.1,0.5,10,Carl,Demonte Crawford,,,
-186,Ryan Zimmerman,6.2,5.1,1.4,4.4,4.6,4.4,43,0.5,10,Ryan,Zimmerman,Zimmerman,Ryan,475582.0
-187,Ryan Zimmerman,6.2,5.1,1.4,4.4,4.6,4.4,43,0.5,10,Ryan,Zimmerman,Zimmerman,Ryan,462137.0
-188,Ryan Zimmerman,6.2,5.1,1.4,4.4,4.6,4.4,43,0.5,10,Ryan,Zimmerman,Zimmerman,Ryan,595042.0
-189,Shin-Soo Choo,6,5.4,-0.1,3.8,4.7,4.4,34.9,0.5,10,Shin-Soo,Choo,Choo,Shin-Soo,425783.0
-190,Matt Holliday,5.9,5.2,-0,3.9,4.6,4.4,38.3,0.5,10,Matt,Holliday,Holliday,Matt,407812.0
-191,Chase Utley,5.8,4,2.1,4.4,4.6,4.4,42.3,0.5,10,Chase,Utley,Utley,Chase,400284.0
-192,Tim Hudson,5.7,0,0,3.9,4.4,3.4,35.4,0.6,10,Tim,Hudson,Hudson,Tim,218596.0
-193,Roy Oswalt,5.7,0,0,4,8.8,6.4,35.4,1.3,10,Roy,Oswalt,Oswalt,Roy,400061.0
-194,Clay Buchholz,5.6,0,0,3.9,4.4,3.2,35.8,0.6,10,Clay,Buchholz,Buchholz,Clay,453329.0
-195,Alexei Ramirez,5.5,3.3,3,3.2,4.5,4.4,28.6,0.5,10,Alexei,Ramirez,Ramirez,Alexei,493351.0
-196,John Danks,5.5,0,0,3.4,4.4,3.5,31.9,0.6,10,John,Danks,Danks,John,433579.0
-197,Daric Barton,5.4,3.5,1.1,3,4.5,4.4,26.7,0.5,10,Daric,Barton,Barton,Daric,435558.0
-198,Kevin Youkilis,5.4,4.7,0.1,3.8,4.7,4.4,36,0.5,10,Kevin,Youkilis,Youkilis,Kevin,425903.0
-199,Aubrey Huff,5.4,4.5,-0.2,3.3,4.5,4.4,32.9,0.5,10,Aubrey,Huff,Huff,Aubrey,333492.0
-200,Angel Pagan,5.3,3,2.1,3.4,4.5,4.4,32.7,0.5,10,Angel,Pagan,Pagan,Angel,434636.0
-201,Angel Pagan,5.3,3,2.1,3.4,4.5,4.4,32.7,0.5,10,Angel,Pagan,Pagan,Angel,439997.0
-202,Alex Gonzalez,5.2,2.3,3.7,3,8.8,8.8,28.2,1,10,Alex,Gonzalez,Gonzalez,Alex,114924.0
-203,Alex Gonzalez,5.2,2.3,3.7,3,8.8,8.8,28.2,1,10,Alex,Gonzalez,Gonzalez,Alex,136460.0
-204,Alex Gonzalez,5.2,2.3,3.7,3,8.8,8.8,28.2,1,10,Alex,Gonzalez,Gonzalez,Alex,490013.0
-205,Alex Gonzalez,5.2,2.3,3.7,3,8.8,8.8,28.2,1,10,Alex,Gonzalez,Gonzalez,Alex,542656.0
-206,Andres Torres,5.1,3.2,1.6,3.3,4.5,4.4,32.3,0.5,10,Andres,Torres,Torres,Andres,400083.0
-207,Andres Torres,5.1,3.2,1.6,3.3,4.5,4.4,32.3,0.5,10,Andres,Torres,Torres,Andres,655321.0
-208,Jeremy Guthrie,4.8,0,0,2.7,4.4,3.7,26.4,0.6,10,Jeremy,Guthrie,Guthrie,Jeremy,425386.0
-209,Justin Morneau,4.6,3.8,0.4,3.4,4.7,4.4,32,0.5,10,Justin,Morneau,Morneau,Justin,408047.0
-210,Johan Santana,4.6,0,0,3.1,4.4,3.4,27.8,0.6,10,Johan,Santana,Santana,Johan,276371.0
+,player,WAR,OFF,DEF,WAA,TRPG,ORPG,RAA,WAAWP,Season,First Name,Last Name,mlb_name,espn_id,espn_name,espn_pos
+0,Cody Bellinger,9,6.6,1.9,7,5,4.7,72.9,0.5,19,Cody,Bellinger,Cody Bellinger,33912,Cody Bellinger,CF
+1,Alex Bregman,8.4,7.7,1.2,6.1,5.3,5,62,0.5,19,Alex,Bregman,Alex Bregman,34886,Alex Bregman,3B
+2,Mike Trout,8.3,8.3,0.3,6.3,5.5,5,65.7,0.5,19,Mike,Trout,Mike Trout,30836,Mike Trout,CF
+3,Marcus Semien,8.1,7.5,1.5,5.8,5.3,5,58.5,0.5,19,Marcus,Semien,Marcus Semien,32146,Marcus Semien,SS
+4,Justin Verlander,7.8,0,0,5.8,5,3.4,56.6,0.7,19,Justin,Verlander,Justin Verlander,6341,Justin Verlander,SP
+5,Mike Minor,7.8,0,0,5.9,5,3.2,57,0.7,19,Mike,Minor,Mike Minor,30624,Mike Minor,SP
+6,Lance Lynn,7.6,0,0,5.7,5,3.3,55.6,0.7,19,Lance,Lynn,Lance Lynn,30820,Lance Lynn,SP
+7,Jacob deGrom,7.3,0,0,5.6,4.7,3.1,50.2,0.7,19,Jacob,deGrom,Jacob deGrom,32796,Jacob deGrom,SP
+8,Christian Yelich,7.1,7.3,-0.7,5.4,5.2,4.7,57.7,0.5,19,Christian,Yelich,Christian Yelich,31283,Christian Yelich,RF
+9,Ketel Marte,6.9,6.6,0.9,5,5.1,4.7,53.9,0.5,19,Ketel,Marte,Ketel Marte,32512,Ketel Marte,2B
+10,Gerrit Cole,6.9,0,0,5,5,3.5,49.2,0.7,19,Gerrit,Cole,Gerrit Cole,32081,Gerrit Cole,SP
+11,Mookie Betts,6.8,5.2,1.1,4.7,5.2,5,45.9,0.5,19,Mookie,Betts,Mookie Betts,33039,Mookie Betts,RF
+12,Matt Chapman,6.7,4.8,2.3,4.4,5.1,5,43.4,0.5,19,Matt,Chapman,Matt Chapman,33857,Matt Chapman,3B
+13,Trevor Story,6.4,4.9,2.4,4.5,4.9,4.7,48,0.5,19,Trevor,Story,Trevor Story,32150,Trevor Story,SS
+14,Anthony Rendon,6.3,6.4,0.3,4.4,5,4.7,47.4,0.5,19,Anthony,Rendon,Anthony Rendon,32098,Anthony Rendon,3B
+15,Stephen Strasburg,6.3,0,0,4.6,4.7,3.5,41.4,0.6,19,Stephen,Strasburg,Stephen Strasburg,30373,Stephen Strasburg,SP
+16,George Springer,6.2,5.1,1,4.4,5.2,5,44.1,0.5,19,George,Springer,George Springer,32078,George Springer,CF
+17,Josh Donaldson,6.1,4.7,1.7,4,4.9,4.7,43,0.5,19,Josh,Donaldson,Josh Donaldson,29563,Josh Donaldson,3B
+18,DJ LeMahieu,6,5.2,0.9,3.9,5.2,5,38.8,0.5,19,DJ,LeMahieu,DJ LeMahieu,30765,DJ LeMahieu,1B
+19,Eduardo Rodriguez,6,0,0,4.1,5,3.8,41.5,0.6,19,Eduardo,Rodriguez,Eduardo Rodriguez,32675,Eduardo Rodriguez,SP
+20,Jack Flaherty,5.9,0,0,4.3,4.7,3.5,38.6,0.6,19,Jack,Flaherty,Jack Flaherty,33837,Jack Flaherty,SP
+21,Max Scherzer,5.8,0,0,4.4,4.7,3.3,39.2,0.7,19,Max,Scherzer,Max Scherzer,28976,Max Scherzer,SP
+22,Nolan Arenado,5.7,5,1.1,3.7,4.9,4.7,39.7,0.5,19,Nolan,Arenado,Nolan Arenado,31261,Nolan Arenado,3B
+23,Max Muncy,5.7,4.6,1.1,3.8,4.9,4.7,41.2,0.5,19,Max,Muncy,Max Muncy,33303,Max Muncy,2B
+24,Jorge Polanco,5.7,5.4,1,3.5,5.2,5,33.8,0.5,19,Jorge,Polanco,Jorge Polanco,32525,Jorge Polanco,SS
+25,Mike Soroka,5.7,0,0,4.2,4.7,3.4,38.2,0.6,19,Mike,Soroka,Mike Soroka,34984,Mike Soroka,SP
+26,Patrick Corbin,5.7,0,0,4,4.7,3.6,36.4,0.6,19,Patrick,Corbin,Patrick Corbin,31313,Patrick Corbin,SP
+27,Lucas Giolito,5.6,0,0,4,5,3.6,39.8,0.6,19,Lucas,Giolito,Lucas Giolito,32697,Lucas Giolito,SP
+28,Sonny Gray,5.6,0,0,4.1,4.7,3.5,37.5,0.6,19,Sonny,Gray,Sonny Gray,32082,Sonny Gray,SP
+29,Zack Greinke,5.6,0,0,3.8,9.7,7.7,35.6,1.2,19,Zack,Greinke,Zack Greinke,5883,Zack Greinke,SP
+30,Ronald Acuna Jr.,5.5,4.8,0.7,3.4,4.9,4.7,37.4,0.5,19,Ronald,Acuna Jr.,Ronald Acuna Jr.,36185,Ronald Acuna Jr.,LF
+31,Aaron Judge,5.4,3.4,1.6,3.9,5.2,5,38.8,0.5,19,Aaron,Judge,Aaron Judge,33192,Aaron Judge,RF
+32,Rafael Devers,5.3,5.7,-0.1,3,5.2,5,29.3,0.5,19,Rafael,Devers,Rafael Devers,33859,Rafael Devers,3B
+33,Xander Bogaerts,5.2,7.1,-1,2.9,5.3,5,28.8,0.5,19,Xander,Bogaerts,Xander Bogaerts,31606,Xander Bogaerts,SS
+34,Hyun-Jin Ryu,5.1,0,0,3.6,4.7,3.6,32.5,0.6,19,Hyun-Jin,Ryu,Hyun-Jin Ryu,32582,Hyun-Jin Ryu,SP
+35,Matt Olson,5.1,3.6,0.9,3.2,5.1,5,31.3,0.5,19,Matt,Olson,Matt Olson,32767,Matt Olson,1B
+36,Charlie Morton,5.1,0,0,3.3,5,4,33.8,0.6,19,Charlie,Morton,Charlie Morton,29155,Charlie Morton,SP
+37,Pete Alonso,5,5.8,-1.6,2.9,5,4.7,32.2,0.5,19,Pete,Alonso,Pete Alonso,37498,Pete Alonso,1B
+38,Jeff McNeil,5,4.6,0.1,3.2,4.9,4.7,34.8,0.5,19,Jeff,McNeil,Jeff McNeil,33900,Jeff McNeil,LF
+39,Shane Bieber,5,0,0,3,5,4.1,31.7,0.6,19,Shane,Bieber,Shane Bieber,40912,Shane Bieber,SP
+40,Javier Baez,4.8,3.3,2.2,3,4.8,4.7,32.2,0.5,19,Javier,Baez,Javier Baez,32127,Javier Baez,SS
+41,Ozzie Albies,4.8,4.3,1,2.6,4.9,4.7,29.4,0.5,19,Ozzie,Albies,Ozzie Albies,33783,Ozzie Albies,2B
+42,Francisco Lindor,4.7,3.7,1.7,2.7,5.1,5,25.4,0.5,19,Francisco,Lindor,Francisco Lindor,32129,Francisco Lindor,SS
+43,Luis Castillo,4.7,0,0,3.2,4.7,3.8,28.9,0.6,19,Luis,Castillo,Luis Castillo,35124,Luis Castillo,SP
+44,Kolten Wong,4.7,3.4,1.7,2.9,4.8,4.7,31.5,0.5,19,Kolten,Wong,Kolten Wong,32061,Kolten Wong,2B
+45,Juan Soto,4.7,4.7,-0.6,2.7,4.9,4.7,29.7,0.5,19,Juan,Soto,Juan Soto,36969,Juan Soto,LF
+46,Yoan Moncada,4.6,5.2,-0.3,2.7,5.2,5,26.5,0.5,19,Yoan,Moncada,Yoan Moncada,33984,Yoan Moncada,3B
+47,Michael Brantley,4.6,3.6,0.2,2.4,5.1,5,22.5,0.5,19,Michael,Brantley,Michael Brantley,30043,Michael Brantley,LF
+48,Nick Ahmed,4.5,2.8,2.6,2.5,4.8,4.7,27.7,0.5,19,Nick,Ahmed,Nick Ahmed,32355,Nick Ahmed,SS
+49,Carlos Santana,4.5,4.5,-0.8,2.2,5.1,5,20.7,0.5,19,Carlos,Santana,Carlos Santana,30280,Carlos Santana,1B
+50,Aaron Nola,10.5,0,0,8.8,4.3,2.1,71.5,0.8,18,Aaron,Nola,Aaron Nola,33709,Aaron Nola,SP
+51,Kyle Freeland,8.4,0,0,6.8,4.3,2.6,56.5,0.7,18,Kyle,Freeland,Kyle Freeland,33839,Kyle Freeland,SP
+53,Jose Ramirez,7.9,7.4,0.8,5.6,4.9,4.6,53.1,0.5,18,Jose,Ramirez,Jose Ramirez,32801,Jose Ramirez,3B
+54,Blake Snell,7.5,0,0,5.8,4.6,2.9,52,0.7,18,Blake,Snell,Blake Snell,33748,Blake Snell,SP
+55,Lorenzo Cain,6.9,4.9,2.4,5,4.5,4.3,49.5,0.5,18,Lorenzo,Cain,Lorenzo Cain,29416,Lorenzo Cain,CF
+56,Chris Sale,6.9,0,0,5.4,4.6,2.8,48.4,0.7,18,Chris,Sale,Chris Sale,30948,Chris Sale,SP
+57,J.D. Martinez,6.4,6.8,-1.4,4.2,4.9,4.6,39.5,0.5,18,J.D.,Martinez,J.D. Martinez,31065,J.D. Martinez,LF
+58,Andrelton Simmons,6.2,3.9,3.1,4.1,4.7,4.6,37.8,0.5,18,Andrelton,Simmons,Andrelton Simmons,31728,Andrelton Simmons,SS
+59,Mitch Haniger,6.1,5.5,0.2,3.9,4.8,4.6,35.3,0.5,18,Mitch,Haniger,Mitch Haniger,32771,Mitch Haniger,RF
+60,Freddie Freeman,6.1,4.9,0.2,3.9,4.5,4.3,39.4,0.5,18,Freddie,Freeman,Freddie Freeman,30193,Freddie Freeman,1B
+61,Corey Kluber,5.9,0,0,3.9,4.6,3.5,36.8,0.6,18,Corey,Kluber,Corey Kluber,30981,Corey Kluber,SP
+62,Trevor Bauer,5.8,0,0,4.1,4.6,3.3,38.1,0.6,18,Trevor,Bauer,Trevor Bauer,32014,Trevor Bauer,SP
+63,Manny Machado,5.7,6.7,0,3.5,9.4,8.9,33,1,18,Manny,Machado,Manny Machado,31097,Manny Machado,3B
+64,Whit Merrifield,5.5,4.5,1.4,3.3,4.7,4.6,29.2,0.5,18,Whit,Merrifield,Whit Merrifield,32422,Whit Merrifield,2B
+65,Paul Goldschmidt,5.4,4.9,-0.4,3.3,4.5,4.3,33.8,0.5,18,Paul,Goldschmidt,Paul Goldschmidt,31027,Paul Goldschmidt,1B
+66,Mike Clevinger,5.2,0,0,3.4,4.6,3.6,32.2,0.6,18,Mike,Clevinger,Mike Clevinger,32769,Mike Clevinger,SP
+67,Jose Altuve,5.2,5,0.6,3.2,4.8,4.6,29.5,0.5,18,Jose,Altuve,Jose Altuve,31662,Jose Altuve,2B
+68,Matt Carpenter,4.9,4.6,-0.1,2.8,4.5,4.3,29.4,0.5,18,Matt,Carpenter,Matt Carpenter,31015,Matt Carpenter,3B
+69,Jed Lowrie,4.8,4.7,0.5,2.5,4.7,4.6,22.1,0.5,18,Jed,Lowrie,Jed Lowrie,29074,Jed Lowrie,2B
+70,Luis Severino,4.8,0,0,3.1,4.6,3.7,29.2,0.6,18,Luis,Severino,Luis Severino,33263,Luis Severino,SP
+71,Aaron Hicks,4.7,4.9,0.2,2.7,4.8,4.6,24.6,0.5,18,Aaron,Hicks,Aaron Hicks,31253,Aaron Hicks,CF
+72,Jameson Taillon,4.7,0,0,3.2,4.3,3.5,27.5,0.6,18,Jameson,Taillon,Jameson Taillon,31258,Jameson Taillon,SP
+73,German Marquez,4.7,0,0,3.1,4.3,3.5,27,0.6,18,German,Marquez,German Marquez,34874,German Marquez,SP
+74,Justin Turner,4.5,4.5,0.2,3.1,4.6,4.3,31.5,0.5,18,Justin,Turner,Justin Turner,29607,Justin Turner,3B
+75,David Price,4.4,0,0,2.8,4.6,3.7,26.9,0.6,18,David,Price,David Price,28958,David Price,SP
+76,Brandon Nimmo,4.4,5.1,-1,2.6,4.6,4.3,27.2,0.5,18,Brandon,Nimmo,Brandon Nimmo,32159,Brandon Nimmo,CF
+77,Jean Segura,4.3,3.7,1.5,2.3,4.7,4.6,19.6,0.5,18,Jean,Segura,Jean Segura,31037,Jean Segura,SS
+78,Joey Wendle,4.3,3.7,1,2.4,4.7,4.6,21.7,0.5,18,Joey,Wendle,Joey Wendle,33017,Joey Wendle,3B
+79,J.T. Realmuto,4.3,4.9,0.1,2.6,4.6,4.3,26.9,0.5,18,J.T.,Realmuto,J.T. Realmuto,32177,J.T. Realmuto,C
+80,Blake Treinen,4.3,0,0,2.4,4.6,4.2,23.1,0.5,18,Blake,Treinen,Blake Treinen,32185,Blake Treinen,RP
+81,Didi Gregorius,4.2,4.3,0.7,2.3,4.7,4.6,20.3,0.5,18,Didi,Gregorius,Didi Gregorius,31376,Didi Gregorius,SS
+82,Giancarlo Stanton,7.6,6.5,0.4,5.5,5,4.7,56.2,0.5,17,Giancarlo,Stanton,Giancarlo Stanton,30583,Giancarlo Stanton,LF
+83,Joey Votto,7.5,6.4,0.2,5.4,4.9,4.7,54.9,0.5,17,Joey,Votto,Joey Votto,28670,Joey Votto,1B
+84,Gio Gonzalez,6.6,0,0,5,4.7,3.3,45.6,0.7,17,Gio,Gonzalez,Gio Gonzalez,28962,Gio Gonzalez,SP
+85,Tommy Pham,6.4,5,1,4.7,4.9,4.7,47.7,0.5,17,Tommy,Pham,Tommy Pham,31208,Tommy Pham,DH
+86,Carlos Correa,6.3,5.9,1,4.7,5.1,4.7,47,0.5,17,Carlos,Correa,Carlos Correa,32653,Carlos Correa,SS
+87,Kris Bryant,6.1,5.9,0.4,4.2,4.9,4.7,43.1,0.5,17,Kris,Bryant,Kris Bryant,33172,Kris Bryant,3B
+88,Charlie Blackmon,6,6.5,-0.2,3.9,4.9,4.7,40.8,0.5,17,Charlie,Blackmon,Charlie Blackmon,31084,Charlie Blackmon,RF
+89,Marcus Stroman,5.8,0,0,4,4.7,3.6,38.7,0.6,17,Marcus,Stroman,Marcus Stroman,32815,Marcus Stroman,SP
+90,Marcell Ozuna,5.8,4.8,0.4,3.7,4.8,4.7,38,0.5,17,Marcell,Ozuna,Marcell Ozuna,31668,Marcell Ozuna,LF
+91,Justin Upton,5.6,4.9,0.3,3.4,9.8,9.4,33.8,1,17,Justin,Upton,Justin Upton,28841,Justin Upton,LF
+92,Corey Seager,5.6,4.5,1.7,3.7,4.9,4.7,37.4,0.5,17,Corey,Seager,Corey Seager,32691,Corey Seager,SS
+93,Carlos Carrasco,5.4,0,0,3.6,4.7,3.7,35.2,0.6,17,Carlos,Carrasco,Carlos Carrasco,28968,Carlos Carrasco,SP
+94,Byron Buxton,5.1,2.7,2.8,3.4,4.8,4.7,32.8,0.5,17,Byron,Buxton,Byron Buxton,32655,Byron Buxton,CF
+95,Jonathan Schoop,5.1,4.9,0.7,2.8,4.9,4.7,27.3,0.5,17,Jonathan,Schoop,Jonathan Schoop,31988,Jonathan Schoop,2B
+96,Kevin Kiermaier,5.1,2.9,2.5,3.7,4.8,4.7,35.8,0.5,17,Kevin,Kiermaier,Kevin Kiermaier,31446,Kevin Kiermaier,CF
+97,Robbie Ray,5,0,0,3.7,4.7,3.5,34.1,0.6,17,Robbie,Ray,Robbie Ray,32175,Robbie Ray,SP
+98,Zack Cozart,4.9,4.7,0.8,3.4,4.9,4.7,34.6,0.5,17,Zack,Cozart,Zack Cozart,30466,Zack Cozart,3B
+99,Brett Gardner,4.9,2.8,1.6,2.7,4.7,4.7,25.4,0.5,17,Brett,Gardner,Brett Gardner,29174,Brett Gardner,CF
+100,Chris Taylor,4.8,4.2,0.7,3,4.8,4.7,30.9,0.5,17,Chris,Taylor,Chris Taylor,32900,Chris Taylor,LF
+101,Jose Abreu,4.7,4.7,-0.9,2.4,4.8,4.7,23.5,0.5,17,Jose,Abreu,Jose Abreu,33095,Jose Abreu,1B
+102,Elvis Andrus,4.7,4.4,1.2,2.4,4.8,4.7,23,0.5,17,Elvis,Andrus,Elvis Andrus,29515,Elvis Andrus,SS
+103,Bryce Harper,4.7,4.3,0,3.2,4.9,4.7,33.1,0.5,17,Bryce,Harper,Bryce Harper,30951,Bryce Harper,RF
+104,Clayton Kershaw,4.6,0,0,3.2,4.7,3.6,30,0.6,17,Clayton,Kershaw,Clayton Kershaw,28963,Clayton Kershaw,SP
+105,Ervin Santana,4.6,0,0,2.7,4.7,3.9,27.2,0.6,17,Ervin,Santana,Ervin Santana,6280,Ervin Santana,SP
+106,Andrew Cashner,4.6,0,0,3,4.7,3.7,29.9,0.6,17,Andrew,Cashner,Andrew Cashner,30134,Andrew Cashner,SP
+107,Avisail Garcia,4.5,4.5,-0.4,2.6,4.9,4.7,25.5,0.5,17,Avisail,Garcia,Avisail Garcia,30729,Avisail Garcia,RF
+108,Brian Dozier,4.4,4.9,0.1,2.2,4.9,4.7,21.6,0.5,17,Brian,Dozier,Brian Dozier,31009,Brian Dozier,2B
+109,Robinson Cano,7.3,6.2,1.6,4.9,4.7,4.5,46.3,0.5,16,Robinson,Cano,Robinson Cano,6204,Robinson Cano,2B
+110,Kyle Seager,6.9,5.3,2,4.5,4.7,4.5,42.3,0.5,16,Kyle,Seager,Kyle Seager,30819,Kyle Seager,3B
+111,Adrian Beltre,6.5,4.9,1.8,4.2,4.7,4.5,39.3,0.5,16,Adrian,Beltre,Adrian Beltre,3878,Adrian Beltre,3B
+112,Adam Eaton,6.2,4.1,1.8,3.9,4.6,4.5,36.1,0.5,16,Adam,Eaton,Adam Eaton,32068,Adam Eaton,RF
+113,Ian Kinsler,6.1,4.9,1.7,3.9,4.7,4.5,35.9,0.5,16,Ian,Kinsler,Ian Kinsler,6197,Ian Kinsler,2B
+114,Anthony Rizzo,5.7,4.6,0.2,3.7,4.7,4.5,37.5,0.5,16,Anthony,Rizzo,Anthony Rizzo,30782,Anthony Rizzo,1B
+115,Dustin Pedroia,5.6,4.4,1.8,3.4,4.6,4.5,31,0.5,16,Dustin,Pedroia,Dustin Pedroia,6393,Dustin Pedroia,2B
+116,Johnny Cueto,5.6,0,0,3.8,4.5,3.4,32.8,0.6,16,Johnny,Cueto,Johnny Cueto,28955,Johnny Cueto,SP
+117,Tanner Roark,5.5,0,0,3.8,4.5,3.5,33.1,0.6,16,Tanner,Roark,Tanner Roark,31593,Tanner Roark,SP
+118,Masahiro Tanaka,5.4,0,0,3.6,4.5,3.5,34.5,0.6,16,Masahiro,Tanaka,Masahiro Tanaka,33150,Masahiro Tanaka,SP
+119,Carlos Martinez,5.4,0,0,3.8,4.5,3.4,33.1,0.6,16,Carlos,Martinez,Carlos Martinez,31340,Carlos Martinez,RP
+120,Jackie Bradley Jr.,5.3,4.2,1.6,3.1,4.6,4.5,28.6,0.5,16,Jackie,Bradley Jr.,Jackie Bradley Jr.,32362,Jackie Bradley Jr.,CF
+121,Jon Lester,5.3,0,0,3.7,4.5,3.5,31.9,0.6,16,Jon,Lester,Jon Lester,28487,Jon Lester,SP
+122,Noah Syndergaard,5.3,0,0,3.8,4.5,3.4,32.7,0.6,16,Noah,Syndergaard,Noah Syndergaard,31730,Noah Syndergaard,SP
+123,Jose Quintana,5.2,0,0,3.3,4.5,3.6,31.7,0.6,16,Jose,Quintana,Jose Quintana,32106,Jose Quintana,SP
+124,David Ortiz,5.1,5,-1.2,2.9,4.7,4.5,26.7,0.5,16,David,Ortiz,,3748,David Ortiz,DH
+125,Rick Porcello,5,0,0,3,4.5,3.7,29.9,0.6,16,Rick,Porcello,Rick Porcello,29966,Rick Porcello,SP
+126,Madison Bumgarner,5,0,0,3.2,4.5,3.7,27.7,0.6,16,Madison,Bumgarner,Madison Bumgarner,29949,Madison Bumgarner,SP
+127,Kyle Hendricks,5,0,0,3.5,4.5,3.5,30.1,0.6,16,Kyle,Hendricks,Kyle Hendricks,33173,Kyle Hendricks,SP
+128,Cole Hamels,5,0,0,3.1,4.5,3.6,30.7,0.6,16,Cole,Hamels,Cole Hamels,6216,Cole Hamels,SP
+129,Starling Marte,4.9,3.1,1.3,3.3,4.6,4.5,32.4,0.5,16,Starling,Marte,Starling Marte,30830,Starling Marte,CF
+130,Miguel Cabrera,4.9,5.5,-1.5,2.6,4.7,4.5,23.3,0.5,16,Miguel,Cabrera,Miguel Cabrera,5544,Miguel Cabrera,1B
+131,Michael Fulmer,4.9,0,0,3.4,4.5,3.3,32.1,0.6,16,Michael,Fulmer,Michael Fulmer,34842,Michael Fulmer,SP
+132,Julio Teheran,4.8,0,0,3.3,4.5,3.5,28.3,0.6,16,Julio,Teheran,Julio Teheran,31091,Julio Teheran,SP
+133,Aaron Sanchez,4.8,0,0,3,4.5,3.6,29.3,0.6,16,Aaron,Sanchez,Aaron Sanchez,31254,Aaron Sanchez,SP
+134,Buster Posey,4.7,3.3,2,2.8,4.6,4.5,27.9,0.5,16,Buster,Posey,Buster Posey,30112,Buster Posey,C
+135,Jake Arrieta,8.6,0,0,6.7,4.2,2.6,54.1,0.7,15,Jake,Arrieta,Jake Arrieta,30145,Jake Arrieta,SP
+136,A.J. Pollock,7.4,5.9,1.8,5.3,4.5,4.2,51.2,0.5,15,A.J.,Pollock,A.J. Pollock,30699,A.J. Pollock,LF
+137,Dallas Keuchel,7.2,0,0,5.1,4.3,3,45.6,0.7,15,Dallas,Keuchel,Dallas Keuchel,31815,Dallas Keuchel,SP
+138,Jason Heyward,6.5,3.9,2,4.6,4.3,4.2,43.4,0.5,15,Jason,Heyward,Jason Heyward,29551,Jason Heyward,RF
+139,Yoenis Cespedes,6.3,5.1,0.7,4.1,8.9,8.5,37.7,1.1,15,Yoenis,Cespedes,Yoenis Cespedes,32080,Yoenis Cespedes,LF
+140,Brandon Crawford,5.6,3.4,2.9,3.8,4.3,4.2,36.2,0.5,15,Brandon,Crawford,Brandon Crawford,30469,Brandon Crawford,SS
+141,John Lackey,5.6,0,0,3.8,4.2,3.2,31.7,0.6,15,John,Lackey,John Lackey,5203,John Lackey,SP
+142,Ender Inciarte,5.3,2,2.6,3.5,4.3,4.2,32.9,0.5,15,Ender,Inciarte,Ender Inciarte,31327,Ender Inciarte,CF
+143,Chris Davis,5.2,5.2,-0.9,2.9,4.5,4.3,25.9,0.5,15,Chris,Davis,Chris Davis,29170,Chris Davis,1B
+144,Nelson Cruz,5.2,6,-1.8,2.9,4.5,4.3,26.2,0.5,15,Nelson,Cruz,Nelson Cruz,6242,Nelson Cruz,DH
+145,Kevin Pillar,5.2,2.8,2.8,3,4.3,4.3,25.8,0.5,15,Kevin,Pillar,Kevin Pillar,32859,Kevin Pillar,CF
+146,Logan Forsythe,5.1,4.5,0.9,3,4.4,4.3,26.4,0.5,15,Logan,Forsythe,Logan Forsythe,30579,Logan Forsythe,1B
+147,Curtis Granderson,5.1,3.9,0.5,3,4.3,4.2,29.4,0.5,15,Curtis,Granderson,Curtis Granderson,6125,Curtis Granderson,LF
+148,Jose Bautista,5.1,5.4,-1.1,2.8,4.5,4.3,25.1,0.5,15,Jose,Bautista,Jose Bautista,5890,Jose Bautista,RF
+149,Matt Duffy,4.9,3.9,1.2,2.9,4.4,4.2,28.5,0.5,15,Matt,Duffy,Matt Duffy,33680,Matt Duffy,3B
+151,Dee Gordon,4.9,3.5,1.8,3,4.3,4.2,28.8,0.5,15,Dee,Gordon,Dee Gordon,30726,Dee Gordon,2B
+152,Andrew McCutchen,4.8,5.7,-0.6,2.7,4.4,4.2,27.2,0.5,15,Andrew,McCutchen,Andrew McCutchen,28701,Andrew McCutchen,CF
+153,Edwin Encarnacion,4.7,4.8,-1.2,2.6,4.5,4.3,22.9,0.5,15,Edwin,Encarnacion,Edwin Encarnacion,5904,Edwin Encarnacion,DH
+154,Jason Kipnis,4.6,4.5,0.4,2.5,4.5,4.3,22.4,0.5,15,Jason,Kipnis,Jason Kipnis,31007,Jason Kipnis,2B
+155,Mike Moustakas,4.4,4,0.8,2.3,4.4,4.3,20,0.5,15,Mike,Moustakas,Mike Moustakas,29999,Mike Moustakas,3B
