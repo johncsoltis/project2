@@ -6,6 +6,8 @@ The goal of our project was create a web dashboard that displays career stats fo
 
 The inspiration for this project came from [FiveThirtyEight's NBA Player Projections](https://projects.fivethirtyeight.com/2020-nba-player-projections/) dashboard. 
 
+![fivethirtyeight](/images/538.png)
+
 
 ## What is WAR?
 The main stat that we were interested in and are displaying is WAR (Wins Above Replacement). The WAR stat has become increasingly popular and attempts to summarize a player's overall contribution to their team. The calculations that go into the final number are complex but a detailed explaination can be found on the [FanGraphs](https://library.fangraphs.com/misc/war/) website. 
