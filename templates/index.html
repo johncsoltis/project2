@@ -11,6 +11,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.js"></script>
 </head>
 <body>
   
@@ -51,7 +53,7 @@
       </li> 
      </ul>
      <div>
-      <img src="../static/assets/images/GitHub-Mark/GitHub-Mark/PNG/GitHub-Mark-120px.png" alt="Git-Hub" style="width:71.19px;height:40px"> 
+      <img src="../static/assets/images/GitHub.png" alt="Git-Hub" style="width:71.19px;height:40px"> 
      </div>
   </div>  
     
@@ -94,19 +96,19 @@
       <div class="col-sm-4">
         <h2>Player</h2>
           <h5>Image:</h5>
-            <div class="mlb_player">
+            <div class="mlb_player" id="player_headshot">
               <img src="../static/assets/images/cody-bellinge.png" alt="Player Headshot" style="width:100%;height:100%;align-content:center">
             </div>   
             
             <div>
               <h5 style="margin-top:15px">Bio</h5>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. .</p>
+              <p id="player_bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. .</p>
             </div>
   </div>
   <div class="col-sm-8">
           <h2>Wins above replacement projection</h2>
             <h5>Title description</h5>
-    <div class="mlb_analytics">
+    <div class="mlb_analytics" id="player_war">
             <img src="../static/assets/images/wins_above_average_graph.PNG" alt="war_graph" style="width:100%;height:100%;align-content:center">
     </div>
     </div>
@@ -116,17 +118,17 @@
     <div>
     <div class="container">
     <div class="row" >
-      <div class="col-sm stats_graph box-shadow: 5px 10px;" >
+      <div class="col-sm stats_graph box-shadow: 5px 10px;" id="table_1">
           <img src="../static/assets/images/wins_above_average_graph.PNG" alt="war_graph" style="width:100%;height:100%;align-content:center"></div>
-      <div class="col-sm box-shadow: 5px 10px;">
+      <div class="col-sm box-shadow: 5px 10px;" id="table_2">
         <img src="../static/assets/images/wins_above_average_graph.PNG" alt="war_graph" style="width:100%;height:100%;align-content:center"></div>
     </div>
   </div>
   <div class="container">
       <div class="row" >
-        <div class="col-sm stats_graph box-shadow: 5px 10px;" >
+        <div class="col-sm stats_graph box-shadow: 5px 10px;" id="table_3">
             <img src="../static/assets/images/wins_above_average_graph.PNG" alt="war_graph" style="width:100%;height:100%;align-content:center"></div>
-        <div class="col-sm box-shadow: 5px 10px;">
+        <div class="col-sm box-shadow: 5px 10px;" id="table_3">
           <img src="../static/assets/images/wins_above_average_graph.PNG" alt="war_graph" style="width:100%;height:100%;align-content:center"></div>
       </div>
     </div>
@@ -139,30 +141,10 @@
     <h2>WAR RANKING </h2>
     <p>The following list includes all MLB players that made the top list:</p>            
     <table class="table">
-      <thead>
-        <tr>
-          <th>Firstname</th>
-          <th>Lastname</th>
-          <th>Email</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>John</td>
-          <td>Doe</td>
-          <td>john@example.com</td>
-        </tr>
-        <tr>
-          <td>Mary</td>
-          <td>Moe</td>
-          <td>mary@example.com</td>
-        </tr>
-        <tr>
-          <td>July</td>
-          <td>Dooley</td>
-          <td>july@example.com</td>
-        </tr>
-      </tbody>
+      <tr>
+        <td>
+         </td>
+      </tr>
     </table>
   </div>
 </div>
