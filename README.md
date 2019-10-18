@@ -19,3 +19,14 @@ We ended up needing to use multiple sources for our data.
   * **Getting PLayer ID's:** 
     This ended up being one of the bigger challenges we faced. Each organization has their own ID's for players, which weren't neccesarily easy to come by. We were able to find a csv from CrunchTimeBasebll which had player ID's from MLB, ESPN, Fangraphs, Yahoo and BaseballReference.
    * **Stats:** For the majority of our statistics we were able to use the ESPN player ID's to build query urls and pull individual player stats off of each player's ESPN profile page. (Example of [Alex Bregman's page](http://www.espn.com/mlb/player/stats/_/id/34886/alex-bregman))
+ 
+ 
+## Cleaning Data
+
+## Database Connection
+
+## Website 
+
+## Conclusions
+
+## Challenges
