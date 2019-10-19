@@ -101,4 +101,29 @@ function autocomplete(inp, arr) {
   /*initiate the autocomplete function on the "myInput" element, and pass along the players array as possible autocomplete values:*/
   autocomplete(document.getElementById("myInput"), players);
 
+  /*get last time the page was refreshed*/
+
   document.getElementById("date").innerHTML = Date();
+
+  /*filter csv*/
+
+  $(document).ready(function () {
+    $('#dtBasicExample').DataTable();
+    $('.dataTables_length').addClass('bs-select');
+  });
+
+  // Basic example
+$(document).ready(function () {
+  $('#dtBasicExample').DataTable({
+    "paging": false // false to disable pagination (or any other option)
+  });
+  $('.dataTables_length').addClass('bs-select');
+});
+
+// Basic example
+$(document).ready(function () {
+  $('#dtBasicExample').DataTable({
+    "pagingType": "simple" // "simple" option for 'Previous' and 'Next' buttons only
+  });
+  $('.dataTables_length').addClass('bs-select');
+});
